@@ -1,0 +1,4 @@
+[submodule "child1"]
+	path = child1
+	url = https://github.com/geekyfox90/child1.git
+	branch = develop
